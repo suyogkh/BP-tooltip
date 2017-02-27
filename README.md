@@ -1,5 +1,5 @@
 # BP-tooltip
-Free jQuery Linear Slider
+Free tooltip plugin
 #### Demo
 This is a codepen [demo for BP-tooltip !](http://codepen.io/suyogkh/pen/XMbgqM)
 
